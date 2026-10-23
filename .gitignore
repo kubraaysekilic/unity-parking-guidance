@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+results.csv
+.vs/
+.vscode/
+bin/
+obj/
+.env
+*.user
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Oo]bj/
+[Bb]uilds/
+UserSettings/
